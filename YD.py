@@ -1,4 +1,4 @@
-#------------------------------Requeried Linraries--------------------#
+#------------------------------Requeried Libraries--------------------#
 
 from googleapiclient.discovery import build
 import pymysql
