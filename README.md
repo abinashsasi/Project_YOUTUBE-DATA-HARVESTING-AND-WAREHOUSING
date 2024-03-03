@@ -7,6 +7,15 @@ Introduction
     API to extract information on a YouTube channel, stores it in a MongoDB database, migrates 
     it to a SQL data warehouse, and displaying the data in the Streamlit app.
     
+Features
+
+    Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
+    Store the retrieved data in a MongoDB database.
+    Migrate the data to a SQL data warehouse.
+    Analyze and visualize data using Streamlit and Plotly.
+    Perform queries on the SQL data warehouse.
+    Gain insights into channel performance, video metrics, and more.
+
 Workflow
 
    Data Collection:
